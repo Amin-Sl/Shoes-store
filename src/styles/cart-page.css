@@ -1,0 +1,5 @@
+.cart-shop{
+    height: 65vh;
+    margin-right: 2vh;
+    overflow-y: scroll;
+}
